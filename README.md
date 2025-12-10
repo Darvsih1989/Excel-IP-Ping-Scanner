@@ -15,3 +15,5 @@ A Python GUI tool that:
 - Writes detailed results to a text file
 
 ## How to Run
+pip install -r requirements.txt
+python main.py
